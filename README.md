@@ -1,6 +1,7 @@
 # AngularToDoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
+Thanks to [Brad Traversy](https://github.com/bradtraversy) from [TraversyMedia](https://www.traversymedia.com/)
 
 ## Development server
 
